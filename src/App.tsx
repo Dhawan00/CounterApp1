@@ -19,10 +19,9 @@ function App() {
     <div className=" d-flex flex-column    bg-primary ">
       <div className="text-center">
         <h1 className=" d-inline-block rounded p-1 mt-3  bg-warning">
-          Yours Count App{" "}
+          Yours Count App
         </h1>
-        <h2>created By dj dhawan</h2>
-        <h2>created By dj Yashwan</h2>
+        
       </div>
 
       <div className="text-center mt-5">
