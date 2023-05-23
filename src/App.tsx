@@ -21,6 +21,7 @@ function App() {
         <h1 className=" d-inline-block rounded p-1 mt-3  bg-warning">
           Yours Count App{" "}
         </h1>
+        <h2>created By dhawan</h2>
       </div>
 
       <div className="text-center mt-5">
