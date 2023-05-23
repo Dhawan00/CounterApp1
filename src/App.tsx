@@ -22,6 +22,7 @@ function App() {
           Yours Count App{" "}
         </h1>
         <h2>created By dj dhawan</h2>
+        <h2>created By dj Yashwan</h2>
       </div>
 
       <div className="text-center mt-5">
